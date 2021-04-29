@@ -8,6 +8,7 @@
 
   ##### Ana Sayfada
     - Diğer sayfalara ulaşılabilicek menü
+    - Hakkında sayfası
     
   ##### Hakkında Sayfası
     - Kişisel ilgi alanlarım vb. bilgiler
@@ -36,7 +37,7 @@
     - Form bilgileri başka bir sayfada görüntülenmeli
     
 ###    Proje Süreci
-  - Gereken araştırmaların yapılıp HTML kodlarının yazımına başlanması,
+    - Gereken araştırmaların yapılıp HTML kodlarının yazımına başlanması,
     - Tasarıma karar verilip kodlamaya başlanması,
     - Zorunlu olan JavaScript ve PHP kodlarının tamamlanması,
     - Sayfanın beğenmediğim bölümlerinin yenilenmesi,
