@@ -13,11 +13,11 @@
     - Kişisel ilgi alanlarım vb. bilgiler
     
   ##### Özgeçmiş Sayfası    
-    - Eğitim bilgileri table ve div kullanarak oluşturulmalı
+    - Eğitim bilgileri samantıc taglar kullanılarak oluşturulmalı
     
   ##### Şehrim Sayfası  
     - Şehre ait kısa bir metin,
-    - En az 4 mekana ait fotoğrafın olduğu bir slider
+    - En az 4 fotoğrafın olduğu bir slider
     - Slider daki resimlere tıklandığında resimlere ait içerik sayfaları açılmalı
    
   ##### Mirasımız Sayfası
@@ -31,13 +31,13 @@
     - Kullanıcı adı ve şifrenin boş olup olmadığı kontrol edilmeli,
     
   ##### İletişim Sayfası
-    - Form elemanları kullanılmalı
+    - Form elemanları olmalı
     - Kontrol işlemleri javascript ile yapılmalı
-    - Gönderilen form bilgileri başka bir sayfada görüntülenmeli
+    - Form bilgileri başka bir sayfada görüntülenmeli
     
 ###    Proje Süreci
-  - Projenin 4 farklı versiyonunu oluşturmayı planlıyorum.
-    - İlk versiyonda sayfaların html dosyalarının yazılması ve gerekli dökümanın ve içeriğin toplanması.
-    - Sayfaların tasarım kodlarının yazılması,
-    - Gerekli javascript ve php dosyalarının tamamlanması,
-    - Ve son olarak eksik gördüğüm ve eklemek istediğim kısımların eklenmesi.
+  - Gereken araştırmaların yapılıp HTML kodlarının yazımına başlanması,
+    - Tasarıma karar verilip kodlamaya başlanması,
+    - Zorunlu olan JavaScript ve PHP kodlarının tamamlanması,
+    - Sayfanın beğenmediğim bölümlerinin yenilenmesi,
+    - Ve son olarak sayfanın yayınlanması.
