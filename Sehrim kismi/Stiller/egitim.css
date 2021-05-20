@@ -1,0 +1,49 @@
+body {
+    background-color: ghostwhite;
+
+
+}
+
+#icerik {
+    margin-left: 18%;
+    margin-right: 18%;
+    background-color: black;
+
+
+}
+
+#sayfacizgi {
+    height: 10px;
+    background-color: darkblue;
+}
+
+#sayfacizgi2 {
+    height: 10px;
+}
+
+.header {
+    background-color: ghostwhite;
+}
+.section{
+
+
+}
+.aside{
+
+    margin:20px ;
+    background-color: bisque;
+
+
+
+}
+.article{
+    background-color: bisque;
+    text-align: center;
+    margin: 20px;
+
+
+
+}
+#temizle{
+    clear: left;
+}

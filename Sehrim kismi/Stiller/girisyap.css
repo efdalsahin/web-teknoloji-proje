@@ -1,0 +1,43 @@
+body {
+    background-color: ghostwhite;
+
+
+}
+
+#icerik {
+    margin-left: 18%;
+    margin-right: 18%;
+    background-color: skyblue;
+
+
+}
+
+#sayfacizgi {
+    height: 10px;
+    background-color: darkblue;
+}
+
+#sayfacizgi2 {
+    height: 10px;
+}
+
+.header {
+    background-color: ghostwhite;
+}
+
+.as {
+    border: 2px solid rgb(11, 120, 223);
+    padding: 10px;
+    border-radius: 50px 20px;
+}
+
+.box {
+    width: 1500px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 1px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic'sans-serif;
+}

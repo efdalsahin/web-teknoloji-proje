@@ -1,0 +1,35 @@
+body {
+    background-color: ghostwhite;
+
+
+}
+
+#icerik {
+    margin-left: 18%;
+    margin-right: 18%;
+    
+
+
+}
+
+#sayfacizgi {
+    height: 10px;
+    background-color: darkblue;
+}
+
+#sayfacizgi2 {
+    height: 10px;
+}
+
+.header {
+    background-color: ghostwhite;
+}
+#kizkulesitanitma{
+    text-align: center;
+    background-color: darkgrey;
+    color: white;
+    border-radius: 10px;
+    border-color: aqua;
+    border-style: inset;
+    border-width: 5px;
+}
