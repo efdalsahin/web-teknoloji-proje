@@ -1,0 +1,57 @@
+body {
+    background-color: ghostwhite;
+
+
+}
+
+#icerik {
+    margin-left: 18%;
+    margin-right: 18%;
+
+}
+
+#sayfacizgi {
+    height: 10px;
+    background-color: darkblue;
+}
+
+#sayfacizgi2 {
+    height: 10px;
+}
+
+.header {
+    background-color: ghostwhite;
+}
+
+.nav justify-content-end {
+    margin-left: 80%;
+    background-color: red;
+}
+
+#tanitma {
+    background-color: ghostwhite;
+}
+
+#kendiresmim {
+    width: 400px;
+    float: right;
+
+}
+
+.card {
+    float: left;
+    margin: 5px;
+}
+#temizle{
+    clear: left;
+}
+
+#footer{
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 0px;
+    padding: 20px;
+    height: 85px;
+    width: 100%;
+    background-color: darkgray;
+}

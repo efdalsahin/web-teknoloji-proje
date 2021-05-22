@@ -1,0 +1,37 @@
+body {
+    background-color: ghostwhite;
+
+
+}
+
+#icerik {
+    margin-left: 18%;
+    margin-right: 18%;
+
+}
+
+#sayfacizgi {
+    height: 10px;
+    background-color: darkblue;
+}
+
+#sayfacizgi2 {
+    height: 10px;
+}
+
+.header {
+    background-color: ghostwhite;
+}
+
+#footer{
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 0px;
+    padding: 20px;
+    height: 85px;
+    width: 100%;
+    background-color: darkgray;
+}
+#animeaciklama{
+    background-color: aqua;
+}
