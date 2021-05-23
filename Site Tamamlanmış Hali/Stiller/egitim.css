@@ -1,0 +1,68 @@
+body {
+    background-color: ghostwhite;
+
+
+}
+
+#icerik {
+    margin-left: 18%;
+    margin-right: 18%;
+    
+
+
+}
+
+#sayfacizgi {
+    height: 10px;
+    background-color: darkblue;
+}
+
+#sayfacizgi2 {
+    height: 10px;
+}
+
+.header {
+    background-color: ghostwhite;
+}
+.section{
+
+
+}
+#aside{
+
+    text-align: center;
+    background-color: bisque;
+    border-radius: 10px;
+    border-color: aqua;
+    border-style: inset;
+    border-width: 30px;
+
+
+
+}
+.article{
+    background-color: bisque;
+    text-align: center;
+     border-radius: 10px;
+    border-color: aqua;
+    border-style: inset;
+    border-width: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+
+
+
+}
+
+
+
+#footer{
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 0px;
+    padding: 20px;
+    height: 85px;
+    width: 100%;
+    background-color: darkgray;
+}
